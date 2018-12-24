@@ -1,4 +1,4 @@
-# MobileAppAutomationTest fggfgffgfgfgffg
+# MobileAppAutomationTest
 
 Dear candidate,
 
